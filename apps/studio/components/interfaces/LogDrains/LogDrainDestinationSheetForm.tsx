@@ -26,6 +26,7 @@ import {
   SelectValue_Shadcn_,
   FormItem_Shadcn_,
   FormLabel_Shadcn_,
+  Switch,
 } from 'ui'
 
 import { z } from 'zod'
